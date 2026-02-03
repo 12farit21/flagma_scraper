@@ -1,5 +1,5 @@
 # Flagma Scraper
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/12farit21/flagma_scraper)
+
 
 This repository contains a Python-based web scraper designed to extract company information from the Flagma business portal (e.g., `flagma.kz`). It is built to handle anti-scraping measures by leveraging dynamic IP rotation through various proxy solutions. The collected data is saved into a local SQLite database for persistence and easy access.
 
